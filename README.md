@@ -1,0 +1,2 @@
+# Yandex_Practicum
+Hello to the one who visited this page!  This repository represents the training I have completed for a Data Science specialist. The repository is still incomplete, as my training is still in progress. At the moment, 12 projects have been laid out (will be updated) on different topics and using a different set of skills. There is a brief description for each project ( see read.me )
